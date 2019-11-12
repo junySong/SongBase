@@ -1,0 +1,6 @@
+framework module SongBase {
+  umbrella header "SongBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

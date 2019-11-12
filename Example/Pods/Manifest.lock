@@ -1,0 +1,16 @@
+PODS:
+  - SongBase (0.1.0)
+
+DEPENDENCIES:
+  - SongBase (from `../`)
+
+EXTERNAL SOURCES:
+  SongBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SongBase: d8f7294b24132246b5a6944e7f3a6b7f7612c9af
+
+PODFILE CHECKSUM: 53178131e20f3bda6a2a044dcb8e3708b8b9e37f
+
+COCOAPODS: 1.5.3

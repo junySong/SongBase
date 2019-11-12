@@ -1,0 +1,6 @@
+framework module Pods_SongBase_Tests {
+  umbrella header "Pods-SongBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

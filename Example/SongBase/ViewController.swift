@@ -7,12 +7,13 @@
 //
 
 import UIKit
-
+import SongBase
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        PrinfUtils.prinfString(str: "JunySong")
     }
 
     override func didReceiveMemoryWarning() {
